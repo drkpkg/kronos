@@ -9,7 +9,7 @@ gmpy2==2.0.8
 gunicorn==19.4.5
 itsdangerous==0.24
 jedi==0.9.0
-Jinja2==2.8
+Jinja2==2.11.3
 lightdm-gtk-greeter-settings==1.2.1
 livestreamer==1.12.2
 louis==3.0.0
