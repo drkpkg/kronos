@@ -13,7 +13,7 @@ Jinja2==2.8
 lightdm-gtk-greeter-settings==1.2.1
 livestreamer==1.12.2
 louis==3.0.0
-lxml==3.6.4
+lxml==4.6.3
 MarkupSafe==0.23
 mpmath==0.19
 namcap==3.2.7
